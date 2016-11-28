@@ -8,46 +8,74 @@
 
 import UIKit
 import SpriteKit
+import GameKit
+import GoogleMobileAds
 
 class GameViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-        if let scene = GameScene(fileNamed:"GameScene") {
-            // Configure the view.
-            let skView = self.view as! SKView
-            skView.showsFPS = true
-            skView.showsNodeCount = true
-            
-            /* Sprite Kit applies additional optimizations to improve rendering performance */
-            skView.ignoresSiblingOrder = true
-            
-            /* Set the scale mode to scale to fit the window */
-            scene.scaleMode = .AspectFill
-            
-            skView.presentScene(scene)
-        }
+    
+    var banner : GADBannerView!
+    
+    override func viewWillLayoutSubviews() {
+        super.viewWillLayoutSubviews()
+        // Build the menu scene:
+        let menuScene = MenuScene()
+        let skView = self.view as! SKView
+        
+        skView.ignoresSiblingOrder = true
+        
+        menuScene.size = view.bounds.size
+        // Show the menu:
+        skView.presentScene(menuScene)
+        authenticateLocalPlayer(menuScene)
+        loadBanner()
     }
-
-    override func shouldAutorotate() -> Bool {
+    
+    override var shouldAutorotate : Bool {
         return true
     }
-
-    override func supportedInterfaceOrientations() -> UIInterfaceOrientationMask {
-        if UIDevice.currentDevice().userInterfaceIdiom == .Phone {
-            return .AllButUpsideDown
+    
+    override var supportedInterfaceOrientations : UIInterfaceOrientationMask {
+        if UIDevice.current.userInterfaceIdiom == .phone {
+            return .portrait
         } else {
-            return .All
+            return .all
         }
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Release any cached data, images, etc that aren't in use.
+    
+    func loadBanner(){
+      banner = GADBannerView(adSize: kGADAdSizeSmartBannerPortrait)
+      
+      banner.rootViewController = self
+      let req : GADRequest = GADRequest()
+       banner.load(req)
+       banner.frame = CGRect(x: 0, y: view.bounds.height - banner.frame.size.height, width: banner.frame.size.width, height: banner.frame.size.height)
+        self.view.addSubview(banner)
     }
-
-    override func prefersStatusBarHidden() -> Bool {
-        return true
+    
+    func authenticateLocalPlayer(_ menuScene:MenuScene) {
+        
+        
+        let localPlayer = GKLocalPlayer.localPlayer();
+            localPlayer.authenticateHandler = {
+                (viewController: UIViewController?, error: Error?) -> Void in
+                if viewController != nil {
+                    self.present(viewController!, animated: true, completion: nil)
+                }
+                    else if localPlayer.isAuthenticated
+                {
+                    menuScene.createLeaderboardButton()
+                }
+                else {
+                }
+        }
     }
+        
+        override func didReceiveMemoryWarning() {
+            super.didReceiveMemoryWarning()
+            // Release any cached data, images, etc that aren't in use.
+        }
+        
+        override var prefersStatusBarHidden : Bool {
+            return true
+        }
 }

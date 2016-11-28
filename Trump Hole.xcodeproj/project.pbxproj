@@ -7,6 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A0318FDB1CC48FD900F2EFE7 /* playButton1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A0318FDA1CC48FD900F2EFE7 /* playButton1.PNG */; };
+		A0318FE61CC49C3F00F2EFE7 /* replaybutton2.png in Resources */ = {isa = PBXBuildFile; fileRef = A0318FE41CC49C3F00F2EFE7 /* replaybutton2.png */; };
+		A0318FE71CC49C3F00F2EFE7 /* menubutton.png in Resources */ = {isa = PBXBuildFile; fileRef = A0318FE51CC49C3F00F2EFE7 /* menubutton.png */; };
+		A0318FE91CC5B8FD00F2EFE7 /* menubutton2.png in Resources */ = {isa = PBXBuildFile; fileRef = A0318FE81CC5B8FD00F2EFE7 /* menubutton2.png */; };
+		A0318FED1CC5D99900F2EFE7 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = A0318FEA1CC5D99900F2EFE7 /* background.png */; };
+		A0318FEE1CC5D99900F2EFE7 /* trumpstanding1.png in Resources */ = {isa = PBXBuildFile; fileRef = A0318FEB1CC5D99900F2EFE7 /* trumpstanding1.png */; };
+		A0318FEF1CC5D99900F2EFE7 /* trumprunning1.png in Resources */ = {isa = PBXBuildFile; fileRef = A0318FEC1CC5D99900F2EFE7 /* trumprunning1.png */; };
+		A03190131CCAF19C00F2EFE7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A03190121CCAF19C00F2EFE7 /* GoogleMobileAds.framework */; };
+		A03190151CCBEC0F00F2EFE7 /* mainScreen1.png in Resources */ = {isa = PBXBuildFile; fileRef = A03190141CCBEC0F00F2EFE7 /* mainScreen1.png */; };
+		A03190191CCC052F00F2EFE7 /* questionred.png in Resources */ = {isa = PBXBuildFile; fileRef = A03190161CCC052F00F2EFE7 /* questionred.png */; };
+		A031901A1CCC052F00F2EFE7 /* leftred.png in Resources */ = {isa = PBXBuildFile; fileRef = A03190171CCC052F00F2EFE7 /* leftred.png */; };
+		A031901B1CCC052F00F2EFE7 /* rightred.png in Resources */ = {isa = PBXBuildFile; fileRef = A03190181CCC052F00F2EFE7 /* rightred.png */; };
+		A031901F1CCC071E00F2EFE7 /* instructionalpage.png in Resources */ = {isa = PBXBuildFile; fileRef = A031901E1CCC071E00F2EFE7 /* instructionalpage.png */; };
+		A03190211CCC0C2700F2EFE7 /* HowToScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03190201CCC0C2700F2EFE7 /* HowToScene.swift */; };
+		A03190231CD194A900F2EFE7 /* return.png in Resources */ = {isa = PBXBuildFile; fileRef = A03190221CD194A900F2EFE7 /* return.png */; };
+		A03190281CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190241CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 */; };
+		A03190291CD2B94E00F2EFE7 /* Im exhausted.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190251CD2B94E00F2EFE7 /* Im exhausted.mp3 */; };
+		A031902A1CD2B94E00F2EFE7 /* And I thank all of you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190261CD2B94E00F2EFE7 /* And I thank all of you.mp3 */; };
+		A031902B1CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190271CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 */; };
+		A031902E1CD2C72100F2EFE7 /* Retro Comedy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A031902D1CD2C72100F2EFE7 /* Retro Comedy.mp3 */; };
+		A03190351CD5202700F2EFE7 /* get_out_of_here2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A031902F1CD5202700F2EFE7 /* get_out_of_here2.mp3 */; };
+		A03190361CD5202700F2EFE7 /* we_want_deal!2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190301CD5202700F2EFE7 /* we_want_deal!2.mp3 */; };
+		A03190371CD5202700F2EFE7 /* Im_really_rich2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190311CD5202700F2EFE7 /* Im_really_rich2.mp3 */; };
+		A03190381CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190321CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 */; };
+		A03190391CD5202700F2EFE7 /* Okay2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190331CD5202700F2EFE7 /* Okay2.mp3 */; };
+		A031903A1CD5202700F2EFE7 /* Thank_you_darling2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190341CD5202700F2EFE7 /* Thank_you_darling2.mp3 */; };
+		A04F56C41CC47744002CF511 /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04F56C31CC47744002CF511 /* MenuScene.swift */; };
+		A04F56C61CC477EB002CF511 /* mainScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = A04F56C51CC477EB002CF511 /* mainScreen.png */; };
 		A06B14D11CBE142F0081F077 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06B14D01CBE142F0081F077 /* AppDelegate.swift */; };
 		A06B14D31CBE142F0081F077 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A06B14D21CBE142F0081F077 /* GameScene.sks */; };
 		A06B14D51CBE142F0081F077 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06B14D41CBE142F0081F077 /* GameScene.swift */; };
@@ -16,6 +44,12 @@
 		A06B14DF1CBE142F0081F077 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A06B14DD1CBE142F0081F077 /* LaunchScreen.storyboard */; };
 		A06B14EA1CBE14300081F077 /* Trump_HoleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06B14E91CBE14300081F077 /* Trump_HoleTests.swift */; };
 		A06B14F51CBE14300081F077 /* Trump_HoleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06B14F41CBE14300081F077 /* Trump_HoleUITests.swift */; };
+		A06B15051CBE178D0081F077 /* bringground.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B15041CBE178D0081F077 /* bringground.png */; };
+		A06B15081CBE17BB0081F077 /* bringground1.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B15061CBE17BB0081F077 /* bringground1.png */; };
+		A06B15091CBE17BB0081F077 /* bringgroundstart.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B15071CBE17BB0081F077 /* bringgroundstart.png */; };
+		A06B15151CBF42230081F077 /* whitehouse.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B15111CBF42230081F077 /* whitehouse.png */; };
+		A06B151B1CC42B8D0081F077 /* hilaryopenmouth1.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B15191CC42B8D0081F077 /* hilaryopenmouth1.png */; };
+		A06B151D1CC430730081F077 /* vote2.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B151C1CC430730081F077 /* vote2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +70,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A0318FDA1CC48FD900F2EFE7 /* playButton1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playButton1.PNG; sourceTree = "<group>"; };
+		A0318FE41CC49C3F00F2EFE7 /* replaybutton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = replaybutton2.png; sourceTree = "<group>"; };
+		A0318FE51CC49C3F00F2EFE7 /* menubutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menubutton.png; sourceTree = "<group>"; };
+		A0318FE81CC5B8FD00F2EFE7 /* menubutton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menubutton2.png; sourceTree = "<group>"; };
+		A0318FEA1CC5D99900F2EFE7 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		A0318FEB1CC5D99900F2EFE7 /* trumpstanding1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trumpstanding1.png; sourceTree = "<group>"; };
+		A0318FEC1CC5D99900F2EFE7 /* trumprunning1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trumprunning1.png; sourceTree = "<group>"; };
+		A03190121CCAF19C00F2EFE7 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
+		A03190141CCBEC0F00F2EFE7 /* mainScreen1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainScreen1.png; sourceTree = "<group>"; };
+		A03190161CCC052F00F2EFE7 /* questionred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = questionred.png; sourceTree = "<group>"; };
+		A03190171CCC052F00F2EFE7 /* leftred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leftred.png; sourceTree = "<group>"; };
+		A03190181CCC052F00F2EFE7 /* rightred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rightred.png; sourceTree = "<group>"; };
+		A031901E1CCC071E00F2EFE7 /* instructionalpage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instructionalpage.png; sourceTree = "<group>"; };
+		A03190201CCC0C2700F2EFE7 /* HowToScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HowToScene.swift; sourceTree = "<group>"; };
+		A03190221CD194A900F2EFE7 /* return.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = return.png; sourceTree = "<group>"; };
+		A03190241CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "This is Hillary Clinton.mp3"; sourceTree = "<group>"; };
+		A03190251CD2B94E00F2EFE7 /* Im exhausted.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Im exhausted.mp3"; sourceTree = "<group>"; };
+		A03190261CD2B94E00F2EFE7 /* And I thank all of you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "And I thank all of you.mp3"; sourceTree = "<group>"; };
+		A03190271CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Every American gets a cup cake.mp3"; sourceTree = "<group>"; };
+		A031902D1CD2C72100F2EFE7 /* Retro Comedy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Retro Comedy.mp3"; sourceTree = "<group>"; };
+		A031902F1CD5202700F2EFE7 /* get_out_of_here2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = get_out_of_here2.mp3; sourceTree = "<group>"; };
+		A03190301CD5202700F2EFE7 /* we_want_deal!2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "we_want_deal!2.mp3"; sourceTree = "<group>"; };
+		A03190311CD5202700F2EFE7 /* Im_really_rich2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Im_really_rich2.mp3; sourceTree = "<group>"; };
+		A03190321CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = were_going_to_make_america_great2.mp3; sourceTree = "<group>"; };
+		A03190331CD5202700F2EFE7 /* Okay2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Okay2.mp3; sourceTree = "<group>"; };
+		A03190341CD5202700F2EFE7 /* Thank_you_darling2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Thank_you_darling2.mp3; sourceTree = "<group>"; };
+		A04F56C31CC47744002CF511 /* MenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
+		A04F56C51CC477EB002CF511 /* mainScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainScreen.png; sourceTree = "<group>"; };
 		A06B14CD1CBE142F0081F077 /* Trump Hole.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Trump Hole.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06B14D01CBE142F0081F077 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A06B14D21CBE142F0081F077 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -51,6 +113,12 @@
 		A06B14F01CBE14300081F077 /* Trump HoleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Trump HoleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06B14F41CBE14300081F077 /* Trump_HoleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trump_HoleUITests.swift; sourceTree = "<group>"; };
 		A06B14F61CBE14300081F077 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A06B15041CBE178D0081F077 /* bringground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bringground.png; sourceTree = "<group>"; };
+		A06B15061CBE17BB0081F077 /* bringground1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bringground1.png; sourceTree = "<group>"; };
+		A06B15071CBE17BB0081F077 /* bringgroundstart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bringgroundstart.png; sourceTree = "<group>"; };
+		A06B15111CBF42230081F077 /* whitehouse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitehouse.png; sourceTree = "<group>"; };
+		A06B15191CC42B8D0081F077 /* hilaryopenmouth1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hilaryopenmouth1.png; sourceTree = "<group>"; };
+		A06B151C1CC430730081F077 /* vote2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vote2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +126,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A03190131CCAF19C00F2EFE7 /* GoogleMobileAds.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +150,7 @@
 		A06B14C41CBE142F0081F077 = {
 			isa = PBXGroup;
 			children = (
+				A03190121CCAF19C00F2EFE7 /* GoogleMobileAds.framework */,
 				A06B14CF1CBE142F0081F077 /* Trump Hole */,
 				A06B14E81CBE14300081F077 /* Trump HoleTests */,
 				A06B14F31CBE14300081F077 /* Trump HoleUITests */,
@@ -104,10 +174,43 @@
 				A06B14D01CBE142F0081F077 /* AppDelegate.swift */,
 				A06B14D21CBE142F0081F077 /* GameScene.sks */,
 				A06B14D41CBE142F0081F077 /* GameScene.swift */,
+				A04F56C31CC47744002CF511 /* MenuScene.swift */,
+				A03190201CCC0C2700F2EFE7 /* HowToScene.swift */,
 				A06B14D61CBE142F0081F077 /* GameViewController.swift */,
 				A06B14D81CBE142F0081F077 /* Main.storyboard */,
 				A06B14DB1CBE142F0081F077 /* Assets.xcassets */,
+				A06B15061CBE17BB0081F077 /* bringground1.png */,
+				A06B15071CBE17BB0081F077 /* bringgroundstart.png */,
 				A06B14DD1CBE142F0081F077 /* LaunchScreen.storyboard */,
+				A0318FE41CC49C3F00F2EFE7 /* replaybutton2.png */,
+				A03190161CCC052F00F2EFE7 /* questionred.png */,
+				A031902F1CD5202700F2EFE7 /* get_out_of_here2.mp3 */,
+				A03190301CD5202700F2EFE7 /* we_want_deal!2.mp3 */,
+				A03190311CD5202700F2EFE7 /* Im_really_rich2.mp3 */,
+				A03190321CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 */,
+				A03190331CD5202700F2EFE7 /* Okay2.mp3 */,
+				A03190341CD5202700F2EFE7 /* Thank_you_darling2.mp3 */,
+				A031902D1CD2C72100F2EFE7 /* Retro Comedy.mp3 */,
+				A03190221CD194A900F2EFE7 /* return.png */,
+				A031901E1CCC071E00F2EFE7 /* instructionalpage.png */,
+				A03190171CCC052F00F2EFE7 /* leftred.png */,
+				A03190241CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 */,
+				A03190251CD2B94E00F2EFE7 /* Im exhausted.mp3 */,
+				A03190261CD2B94E00F2EFE7 /* And I thank all of you.mp3 */,
+				A03190271CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 */,
+				A03190181CCC052F00F2EFE7 /* rightred.png */,
+				A0318FE51CC49C3F00F2EFE7 /* menubutton.png */,
+				A03190141CCBEC0F00F2EFE7 /* mainScreen1.png */,
+				A0318FEA1CC5D99900F2EFE7 /* background.png */,
+				A0318FEB1CC5D99900F2EFE7 /* trumpstanding1.png */,
+				A0318FEC1CC5D99900F2EFE7 /* trumprunning1.png */,
+				A0318FE81CC5B8FD00F2EFE7 /* menubutton2.png */,
+				A0318FDA1CC48FD900F2EFE7 /* playButton1.PNG */,
+				A04F56C51CC477EB002CF511 /* mainScreen.png */,
+				A06B151C1CC430730081F077 /* vote2.png */,
+				A06B15111CBF42230081F077 /* whitehouse.png */,
+				A06B15041CBE178D0081F077 /* bringground.png */,
+				A06B15191CC42B8D0081F077 /* hilaryopenmouth1.png */,
 				A06B14E01CBE142F0081F077 /* Info.plist */,
 			);
 			path = "Trump Hole";
@@ -199,7 +302,8 @@
 				TargetAttributes = {
 					A06B14CC1CBE142F0081F077 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = A8N7HPKFA6;
+						DevelopmentTeam = H2MNK727G4;
+						LastSwiftMigration = 0820;
 					};
 					A06B14E41CBE14300081F077 = {
 						CreatedOnToolsVersion = 7.3;
@@ -238,10 +342,41 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A06B15151CBF42230081F077 /* whitehouse.png in Resources */,
+				A03190151CCBEC0F00F2EFE7 /* mainScreen1.png in Resources */,
+				A03190351CD5202700F2EFE7 /* get_out_of_here2.mp3 in Resources */,
+				A03190281CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 in Resources */,
+				A03190371CD5202700F2EFE7 /* Im_really_rich2.mp3 in Resources */,
 				A06B14D31CBE142F0081F077 /* GameScene.sks in Resources */,
+				A03190361CD5202700F2EFE7 /* we_want_deal!2.mp3 in Resources */,
 				A06B14DF1CBE142F0081F077 /* LaunchScreen.storyboard in Resources */,
+				A031902A1CD2B94E00F2EFE7 /* And I thank all of you.mp3 in Resources */,
+				A031901A1CCC052F00F2EFE7 /* leftred.png in Resources */,
 				A06B14DC1CBE142F0081F077 /* Assets.xcassets in Resources */,
+				A0318FEF1CC5D99900F2EFE7 /* trumprunning1.png in Resources */,
+				A0318FE91CC5B8FD00F2EFE7 /* menubutton2.png in Resources */,
+				A06B151B1CC42B8D0081F077 /* hilaryopenmouth1.png in Resources */,
 				A06B14DA1CBE142F0081F077 /* Main.storyboard in Resources */,
+				A031902B1CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 in Resources */,
+				A03190291CD2B94E00F2EFE7 /* Im exhausted.mp3 in Resources */,
+				A06B15081CBE17BB0081F077 /* bringground1.png in Resources */,
+				A0318FE71CC49C3F00F2EFE7 /* menubutton.png in Resources */,
+				A03190191CCC052F00F2EFE7 /* questionred.png in Resources */,
+				A04F56C61CC477EB002CF511 /* mainScreen.png in Resources */,
+				A06B151D1CC430730081F077 /* vote2.png in Resources */,
+				A031903A1CD5202700F2EFE7 /* Thank_you_darling2.mp3 in Resources */,
+				A0318FDB1CC48FD900F2EFE7 /* playButton1.PNG in Resources */,
+				A031901B1CCC052F00F2EFE7 /* rightred.png in Resources */,
+				A03190391CD5202700F2EFE7 /* Okay2.mp3 in Resources */,
+				A06B15091CBE17BB0081F077 /* bringgroundstart.png in Resources */,
+				A06B15051CBE178D0081F077 /* bringground.png in Resources */,
+				A03190381CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 in Resources */,
+				A0318FED1CC5D99900F2EFE7 /* background.png in Resources */,
+				A0318FEE1CC5D99900F2EFE7 /* trumpstanding1.png in Resources */,
+				A031902E1CD2C72100F2EFE7 /* Retro Comedy.mp3 in Resources */,
+				A0318FE61CC49C3F00F2EFE7 /* replaybutton2.png in Resources */,
+				A031901F1CCC071E00F2EFE7 /* instructionalpage.png in Resources */,
+				A03190231CD194A900F2EFE7 /* return.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +402,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A06B14D51CBE142F0081F077 /* GameScene.swift in Sources */,
+				A04F56C41CC47744002CF511 /* MenuScene.swift in Sources */,
+				A03190211CCC0C2700F2EFE7 /* HowToScene.swift in Sources */,
 				A06B14D71CBE142F0081F077 /* GameViewController.swift in Sources */,
 				A06B14D11CBE142F0081F077 /* AppDelegate.swift in Sources */,
 			);
@@ -410,10 +547,19 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = "Trump Hole/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "theramirez.Trump-Hole";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.theramirez.Trump-Hole";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -421,10 +567,19 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = "Trump Hole/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "theramirez.Trump-Hole";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.theramirez.Trump-Hole";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -456,6 +611,7 @@
 		A06B15001CBE14300081F077 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_ENTITLEMENTS[sdk=*]" = "";
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				INFOPLIST_FILE = "Trump HoleUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -495,6 +651,7 @@
 				A06B14FB1CBE14300081F077 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A06B14FC1CBE14300081F077 /* Build configuration list for PBXNativeTarget "Trump HoleTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +660,7 @@
 				A06B14FE1CBE14300081F077 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A06B14FF1CBE14300081F077 /* Build configuration list for PBXNativeTarget "Trump HoleUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +669,7 @@
 				A06B15011CBE14300081F077 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
