@@ -22,12 +22,10 @@
 		A031901F1CCC071E00F2EFE7 /* instructionalpage.png in Resources */ = {isa = PBXBuildFile; fileRef = A031901E1CCC071E00F2EFE7 /* instructionalpage.png */; };
 		A03190211CCC0C2700F2EFE7 /* HowToScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03190201CCC0C2700F2EFE7 /* HowToScene.swift */; };
 		A03190231CD194A900F2EFE7 /* return.png in Resources */ = {isa = PBXBuildFile; fileRef = A03190221CD194A900F2EFE7 /* return.png */; };
-		A03190281CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190241CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 */; };
 		A03190291CD2B94E00F2EFE7 /* Im exhausted.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190251CD2B94E00F2EFE7 /* Im exhausted.mp3 */; };
 		A031902A1CD2B94E00F2EFE7 /* And I thank all of you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190261CD2B94E00F2EFE7 /* And I thank all of you.mp3 */; };
 		A031902B1CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190271CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 */; };
 		A031902E1CD2C72100F2EFE7 /* Retro Comedy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A031902D1CD2C72100F2EFE7 /* Retro Comedy.mp3 */; };
-		A03190351CD5202700F2EFE7 /* get_out_of_here2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A031902F1CD5202700F2EFE7 /* get_out_of_here2.mp3 */; };
 		A03190361CD5202700F2EFE7 /* we_want_deal!2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190301CD5202700F2EFE7 /* we_want_deal!2.mp3 */; };
 		A03190371CD5202700F2EFE7 /* Im_really_rich2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190311CD5202700F2EFE7 /* Im_really_rich2.mp3 */; };
 		A03190381CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A03190321CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 */; };
@@ -50,6 +48,8 @@
 		A06B15151CBF42230081F077 /* whitehouse.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B15111CBF42230081F077 /* whitehouse.png */; };
 		A06B151B1CC42B8D0081F077 /* hilaryopenmouth1.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B15191CC42B8D0081F077 /* hilaryopenmouth1.png */; };
 		A06B151D1CC430730081F077 /* vote2.png in Resources */ = {isa = PBXBuildFile; fileRef = A06B151C1CC430730081F077 /* vote2.png */; };
+		A07C86AA1DEBBEAE002BC654 /* This is Hillary Clinton.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A07C86A91DEBBEAE002BC654 /* This is Hillary Clinton.mp3 */; };
+		A07C86AC1DEBBEB5002BC654 /* get_out_of_here2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A07C86AB1DEBBEB5002BC654 /* get_out_of_here2.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,12 +85,10 @@
 		A031901E1CCC071E00F2EFE7 /* instructionalpage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instructionalpage.png; sourceTree = "<group>"; };
 		A03190201CCC0C2700F2EFE7 /* HowToScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HowToScene.swift; sourceTree = "<group>"; };
 		A03190221CD194A900F2EFE7 /* return.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = return.png; sourceTree = "<group>"; };
-		A03190241CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "This is Hillary Clinton.mp3"; sourceTree = "<group>"; };
 		A03190251CD2B94E00F2EFE7 /* Im exhausted.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Im exhausted.mp3"; sourceTree = "<group>"; };
 		A03190261CD2B94E00F2EFE7 /* And I thank all of you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "And I thank all of you.mp3"; sourceTree = "<group>"; };
 		A03190271CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Every American gets a cup cake.mp3"; sourceTree = "<group>"; };
 		A031902D1CD2C72100F2EFE7 /* Retro Comedy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Retro Comedy.mp3"; sourceTree = "<group>"; };
-		A031902F1CD5202700F2EFE7 /* get_out_of_here2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = get_out_of_here2.mp3; sourceTree = "<group>"; };
 		A03190301CD5202700F2EFE7 /* we_want_deal!2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "we_want_deal!2.mp3"; sourceTree = "<group>"; };
 		A03190311CD5202700F2EFE7 /* Im_really_rich2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Im_really_rich2.mp3; sourceTree = "<group>"; };
 		A03190321CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = were_going_to_make_america_great2.mp3; sourceTree = "<group>"; };
@@ -119,6 +117,8 @@
 		A06B15111CBF42230081F077 /* whitehouse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitehouse.png; sourceTree = "<group>"; };
 		A06B15191CC42B8D0081F077 /* hilaryopenmouth1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hilaryopenmouth1.png; sourceTree = "<group>"; };
 		A06B151C1CC430730081F077 /* vote2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vote2.png; sourceTree = "<group>"; };
+		A07C86A91DEBBEAE002BC654 /* This is Hillary Clinton.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "This is Hillary Clinton.mp3"; path = "Supporting Files/This is Hillary Clinton.mp3"; sourceTree = "<group>"; };
+		A07C86AB1DEBBEB5002BC654 /* get_out_of_here2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = get_out_of_here2.mp3; path = "Supporting Files/get_out_of_here2.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,17 +211,17 @@
 				A06B14DD1CBE142F0081F077 /* LaunchScreen.storyboard */,
 				A0318FE41CC49C3F00F2EFE7 /* replaybutton2.png */,
 				A03190161CCC052F00F2EFE7 /* questionred.png */,
-				A031902F1CD5202700F2EFE7 /* get_out_of_here2.mp3 */,
 				A03190301CD5202700F2EFE7 /* we_want_deal!2.mp3 */,
 				A03190311CD5202700F2EFE7 /* Im_really_rich2.mp3 */,
 				A03190321CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 */,
+				A07C86AB1DEBBEB5002BC654 /* get_out_of_here2.mp3 */,
+				A07C86A91DEBBEAE002BC654 /* This is Hillary Clinton.mp3 */,
 				A03190331CD5202700F2EFE7 /* Okay2.mp3 */,
 				A03190341CD5202700F2EFE7 /* Thank_you_darling2.mp3 */,
 				A031902D1CD2C72100F2EFE7 /* Retro Comedy.mp3 */,
 				A03190221CD194A900F2EFE7 /* return.png */,
 				A031901E1CCC071E00F2EFE7 /* instructionalpage.png */,
 				A03190171CCC052F00F2EFE7 /* leftred.png */,
-				A03190241CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 */,
 				A03190251CD2B94E00F2EFE7 /* Im exhausted.mp3 */,
 				A03190261CD2B94E00F2EFE7 /* And I thank all of you.mp3 */,
 				A03190271CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 */,
@@ -354,9 +354,8 @@
 			files = (
 				A06B15151CBF42230081F077 /* whitehouse.png in Resources */,
 				A03190151CCBEC0F00F2EFE7 /* mainScreen1.png in Resources */,
-				A03190351CD5202700F2EFE7 /* get_out_of_here2.mp3 in Resources */,
-				A03190281CD2B94E00F2EFE7 /* This is Hillary Clinton.mp3 in Resources */,
 				A03190371CD5202700F2EFE7 /* Im_really_rich2.mp3 in Resources */,
+				A07C86AA1DEBBEAE002BC654 /* This is Hillary Clinton.mp3 in Resources */,
 				A06B14D31CBE142F0081F077 /* GameScene.sks in Resources */,
 				A03190361CD5202700F2EFE7 /* we_want_deal!2.mp3 in Resources */,
 				A06B14DF1CBE142F0081F077 /* LaunchScreen.storyboard in Resources */,
@@ -383,6 +382,7 @@
 				A03190381CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 in Resources */,
 				A0318FED1CC5D99900F2EFE7 /* background.png in Resources */,
 				A0318FEE1CC5D99900F2EFE7 /* trumpstanding1.png in Resources */,
+				A07C86AC1DEBBEB5002BC654 /* get_out_of_here2.mp3 in Resources */,
 				A031902E1CD2C72100F2EFE7 /* Retro Comedy.mp3 in Resources */,
 				A0318FE61CC49C3F00F2EFE7 /* replaybutton2.png in Resources */,
 				A031901F1CCC071E00F2EFE7 /* instructionalpage.png in Resources */,
