@@ -70,32 +70,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A0318FDA1CC48FD900F2EFE7 /* playButton1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playButton1.PNG; sourceTree = "<group>"; };
-		A0318FE41CC49C3F00F2EFE7 /* replaybutton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = replaybutton2.png; sourceTree = "<group>"; };
-		A0318FE51CC49C3F00F2EFE7 /* menubutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menubutton.png; sourceTree = "<group>"; };
-		A0318FE81CC5B8FD00F2EFE7 /* menubutton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menubutton2.png; sourceTree = "<group>"; };
-		A0318FEA1CC5D99900F2EFE7 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
-		A0318FEB1CC5D99900F2EFE7 /* trumpstanding1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trumpstanding1.png; sourceTree = "<group>"; };
-		A0318FEC1CC5D99900F2EFE7 /* trumprunning1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trumprunning1.png; sourceTree = "<group>"; };
+		A0318FDA1CC48FD900F2EFE7 /* playButton1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = playButton1.PNG; path = "Supporting Files/playButton1.PNG"; sourceTree = "<group>"; };
+		A0318FE41CC49C3F00F2EFE7 /* replaybutton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = replaybutton2.png; path = "Supporting Files/replaybutton2.png"; sourceTree = "<group>"; };
+		A0318FE51CC49C3F00F2EFE7 /* menubutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menubutton.png; path = "Supporting Files/menubutton.png"; sourceTree = "<group>"; };
+		A0318FE81CC5B8FD00F2EFE7 /* menubutton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menubutton2.png; path = "Supporting Files/menubutton2.png"; sourceTree = "<group>"; };
+		A0318FEA1CC5D99900F2EFE7 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = "Supporting Files/background.png"; sourceTree = "<group>"; };
+		A0318FEB1CC5D99900F2EFE7 /* trumpstanding1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trumpstanding1.png; path = "Supporting Files/trumpstanding1.png"; sourceTree = "<group>"; };
+		A0318FEC1CC5D99900F2EFE7 /* trumprunning1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trumprunning1.png; path = "Supporting Files/trumprunning1.png"; sourceTree = "<group>"; };
 		A03190121CCAF19C00F2EFE7 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
-		A03190141CCBEC0F00F2EFE7 /* mainScreen1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainScreen1.png; sourceTree = "<group>"; };
-		A03190161CCC052F00F2EFE7 /* questionred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = questionred.png; sourceTree = "<group>"; };
-		A03190171CCC052F00F2EFE7 /* leftred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leftred.png; sourceTree = "<group>"; };
-		A03190181CCC052F00F2EFE7 /* rightred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rightred.png; sourceTree = "<group>"; };
-		A031901E1CCC071E00F2EFE7 /* instructionalpage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instructionalpage.png; sourceTree = "<group>"; };
+		A03190141CCBEC0F00F2EFE7 /* mainScreen1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mainScreen1.png; path = "Supporting Files/mainScreen1.png"; sourceTree = "<group>"; };
+		A03190161CCC052F00F2EFE7 /* questionred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = questionred.png; path = "Supporting Files/questionred.png"; sourceTree = "<group>"; };
+		A03190171CCC052F00F2EFE7 /* leftred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = leftred.png; path = "Supporting Files/leftred.png"; sourceTree = "<group>"; };
+		A03190181CCC052F00F2EFE7 /* rightred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rightred.png; path = "Supporting Files/rightred.png"; sourceTree = "<group>"; };
+		A031901E1CCC071E00F2EFE7 /* instructionalpage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = instructionalpage.png; path = "Supporting Files/instructionalpage.png"; sourceTree = "<group>"; };
 		A03190201CCC0C2700F2EFE7 /* HowToScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HowToScene.swift; sourceTree = "<group>"; };
-		A03190221CD194A900F2EFE7 /* return.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = return.png; sourceTree = "<group>"; };
-		A03190251CD2B94E00F2EFE7 /* Im exhausted.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Im exhausted.mp3"; sourceTree = "<group>"; };
-		A03190261CD2B94E00F2EFE7 /* And I thank all of you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "And I thank all of you.mp3"; sourceTree = "<group>"; };
-		A03190271CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Every American gets a cup cake.mp3"; sourceTree = "<group>"; };
-		A031902D1CD2C72100F2EFE7 /* Retro Comedy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Retro Comedy.mp3"; sourceTree = "<group>"; };
-		A03190301CD5202700F2EFE7 /* we_want_deal!2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "we_want_deal!2.mp3"; sourceTree = "<group>"; };
-		A03190311CD5202700F2EFE7 /* Im_really_rich2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Im_really_rich2.mp3; sourceTree = "<group>"; };
-		A03190321CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = were_going_to_make_america_great2.mp3; sourceTree = "<group>"; };
-		A03190331CD5202700F2EFE7 /* Okay2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Okay2.mp3; sourceTree = "<group>"; };
-		A03190341CD5202700F2EFE7 /* Thank_you_darling2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Thank_you_darling2.mp3; sourceTree = "<group>"; };
+		A03190221CD194A900F2EFE7 /* return.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = return.png; path = "Supporting Files/return.png"; sourceTree = "<group>"; };
+		A03190251CD2B94E00F2EFE7 /* Im exhausted.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Im exhausted.mp3"; path = "Supporting Files/Im exhausted.mp3"; sourceTree = "<group>"; };
+		A03190261CD2B94E00F2EFE7 /* And I thank all of you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "And I thank all of you.mp3"; path = "Supporting Files/And I thank all of you.mp3"; sourceTree = "<group>"; };
+		A03190271CD2B94E00F2EFE7 /* Every American gets a cup cake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Every American gets a cup cake.mp3"; path = "Supporting Files/Every American gets a cup cake.mp3"; sourceTree = "<group>"; };
+		A031902D1CD2C72100F2EFE7 /* Retro Comedy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Retro Comedy.mp3"; path = "Supporting Files/Retro Comedy.mp3"; sourceTree = "<group>"; };
+		A03190301CD5202700F2EFE7 /* we_want_deal!2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "we_want_deal!2.mp3"; path = "Supporting Files/we_want_deal!2.mp3"; sourceTree = "<group>"; };
+		A03190311CD5202700F2EFE7 /* Im_really_rich2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Im_really_rich2.mp3; path = "Supporting Files/Im_really_rich2.mp3"; sourceTree = "<group>"; };
+		A03190321CD5202700F2EFE7 /* were_going_to_make_america_great2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = were_going_to_make_america_great2.mp3; path = "Supporting Files/were_going_to_make_america_great2.mp3"; sourceTree = "<group>"; };
+		A03190331CD5202700F2EFE7 /* Okay2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Okay2.mp3; path = "Supporting Files/Okay2.mp3"; sourceTree = "<group>"; };
+		A03190341CD5202700F2EFE7 /* Thank_you_darling2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Thank_you_darling2.mp3; path = "Supporting Files/Thank_you_darling2.mp3"; sourceTree = "<group>"; };
 		A04F56C31CC47744002CF511 /* MenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
-		A04F56C51CC477EB002CF511 /* mainScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainScreen.png; sourceTree = "<group>"; };
+		A04F56C51CC477EB002CF511 /* mainScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mainScreen.png; path = "Supporting Files/mainScreen.png"; sourceTree = "<group>"; };
 		A06B14CD1CBE142F0081F077 /* Trump Hole.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Trump Hole.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06B14D01CBE142F0081F077 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A06B14D21CBE142F0081F077 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -104,19 +104,19 @@
 		A06B14D91CBE142F0081F077 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A06B14DB1CBE142F0081F077 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A06B14DE1CBE142F0081F077 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A06B14E01CBE142F0081F077 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A06B14E01CBE142F0081F077 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Supporting Files/Info.plist"; sourceTree = "<group>"; };
 		A06B14E51CBE14300081F077 /* Trump HoleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Trump HoleTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06B14E91CBE14300081F077 /* Trump_HoleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trump_HoleTests.swift; sourceTree = "<group>"; };
 		A06B14EB1CBE14300081F077 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A06B14F01CBE14300081F077 /* Trump HoleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Trump HoleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06B14F41CBE14300081F077 /* Trump_HoleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trump_HoleUITests.swift; sourceTree = "<group>"; };
 		A06B14F61CBE14300081F077 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A06B15041CBE178D0081F077 /* bringground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bringground.png; sourceTree = "<group>"; };
-		A06B15061CBE17BB0081F077 /* bringground1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bringground1.png; sourceTree = "<group>"; };
-		A06B15071CBE17BB0081F077 /* bringgroundstart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bringgroundstart.png; sourceTree = "<group>"; };
-		A06B15111CBF42230081F077 /* whitehouse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitehouse.png; sourceTree = "<group>"; };
-		A06B15191CC42B8D0081F077 /* hilaryopenmouth1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hilaryopenmouth1.png; sourceTree = "<group>"; };
-		A06B151C1CC430730081F077 /* vote2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vote2.png; sourceTree = "<group>"; };
+		A06B15041CBE178D0081F077 /* bringground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bringground.png; path = "Supporting Files/bringground.png"; sourceTree = "<group>"; };
+		A06B15061CBE17BB0081F077 /* bringground1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bringground1.png; path = "Supporting Files/bringground1.png"; sourceTree = "<group>"; };
+		A06B15071CBE17BB0081F077 /* bringgroundstart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bringgroundstart.png; path = "Supporting Files/bringgroundstart.png"; sourceTree = "<group>"; };
+		A06B15111CBF42230081F077 /* whitehouse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = whitehouse.png; path = "Supporting Files/whitehouse.png"; sourceTree = "<group>"; };
+		A06B15191CC42B8D0081F077 /* hilaryopenmouth1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hilaryopenmouth1.png; path = "Supporting Files/hilaryopenmouth1.png"; sourceTree = "<group>"; };
+		A06B151C1CC430730081F077 /* vote2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = vote2.png; path = "Supporting Files/vote2.png"; sourceTree = "<group>"; };
 		A07C86A91DEBBEAE002BC654 /* This is Hillary Clinton.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "This is Hillary Clinton.mp3"; path = "Supporting Files/This is Hillary Clinton.mp3"; sourceTree = "<group>"; };
 		A07C86AB1DEBBEB5002BC654 /* get_out_of_here2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = get_out_of_here2.mp3; path = "Supporting Files/get_out_of_here2.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -563,7 +563,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				INFOPLIST_FILE = "Trump Hole/Info.plist";
+				INFOPLIST_FILE = "Trump Hole/Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.theramirez.Trump-Hole";
@@ -583,7 +583,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				INFOPLIST_FILE = "Trump Hole/Info.plist";
+				INFOPLIST_FILE = "Trump Hole/Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.theramirez.Trump-Hole";
