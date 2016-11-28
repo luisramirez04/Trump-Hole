@@ -178,6 +178,33 @@
 				A03190201CCC0C2700F2EFE7 /* HowToScene.swift */,
 				A06B14D61CBE142F0081F077 /* GameViewController.swift */,
 				A06B14D81CBE142F0081F077 /* Main.storyboard */,
+				A07C86A81DEBB813002BC654 /* Supporting Files */,
+			);
+			path = "Trump Hole";
+			sourceTree = "<group>";
+		};
+		A06B14E81CBE14300081F077 /* Trump HoleTests */ = {
+			isa = PBXGroup;
+			children = (
+				A06B14E91CBE14300081F077 /* Trump_HoleTests.swift */,
+				A06B14EB1CBE14300081F077 /* Info.plist */,
+			);
+			path = "Trump HoleTests";
+			sourceTree = "<group>";
+		};
+		A06B14F31CBE14300081F077 /* Trump HoleUITests */ = {
+			isa = PBXGroup;
+			children = (
+				A06B14F41CBE14300081F077 /* Trump_HoleUITests.swift */,
+				A06B14F61CBE14300081F077 /* Info.plist */,
+			);
+			path = "Trump HoleUITests";
+			sourceTree = "<group>";
+		};
+		A07C86A81DEBB813002BC654 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A06B14E01CBE142F0081F077 /* Info.plist */,
 				A06B14DB1CBE142F0081F077 /* Assets.xcassets */,
 				A06B15061CBE17BB0081F077 /* bringground1.png */,
 				A06B15071CBE17BB0081F077 /* bringgroundstart.png */,
@@ -211,27 +238,8 @@
 				A06B15111CBF42230081F077 /* whitehouse.png */,
 				A06B15041CBE178D0081F077 /* bringground.png */,
 				A06B15191CC42B8D0081F077 /* hilaryopenmouth1.png */,
-				A06B14E01CBE142F0081F077 /* Info.plist */,
 			);
-			path = "Trump Hole";
-			sourceTree = "<group>";
-		};
-		A06B14E81CBE14300081F077 /* Trump HoleTests */ = {
-			isa = PBXGroup;
-			children = (
-				A06B14E91CBE14300081F077 /* Trump_HoleTests.swift */,
-				A06B14EB1CBE14300081F077 /* Info.plist */,
-			);
-			path = "Trump HoleTests";
-			sourceTree = "<group>";
-		};
-		A06B14F31CBE14300081F077 /* Trump HoleUITests */ = {
-			isa = PBXGroup;
-			children = (
-				A06B14F41CBE14300081F077 /* Trump_HoleUITests.swift */,
-				A06B14F61CBE14300081F077 /* Info.plist */,
-			);
-			path = "Trump HoleUITests";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -308,11 +316,13 @@
 					A06B14E41CBE14300081F077 = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = A8N7HPKFA6;
+						LastSwiftMigration = 0820;
 						TestTargetID = A06B14CC1CBE142F0081F077;
 					};
 					A06B14EF1CBE14300081F077 = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = A8N7HPKFA6;
+						LastSwiftMigration = 0820;
 						TestTargetID = A06B14CC1CBE142F0081F077;
 					};
 				};
@@ -592,6 +602,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "theramirez.Trump-HoleTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Trump Hole.app/Trump Hole";
 			};
 			name = Debug;
@@ -604,6 +615,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "theramirez.Trump-HoleTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Trump Hole.app/Trump Hole";
 			};
 			name = Release;
@@ -617,6 +629,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "theramirez.Trump-HoleUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = "Trump Hole";
 			};
 			name = Debug;
@@ -628,6 +641,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "theramirez.Trump-HoleUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = "Trump Hole";
 			};
 			name = Release;
